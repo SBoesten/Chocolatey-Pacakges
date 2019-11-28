@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>aviraAV</id>
+    <title>Avira</title>
+	<version>15.0.1911.1660</version>
+    <authors>Avira Operations GmbH Co. KG</authors>
+	<owners>S.Boesten</owners>
+	<projectUrl>https://www.avira.com/nl/free-antivirus-windows</projectUrl>
+	<tags>Avira AV AntiVirus</tags>
+	<summary>Free AntiVirus</summary>
+	<description>Avira Free Antivirus offers basic protection for your computer against dangerous viruses, worms, spy-ware, trojans and costly dialers.</description>
+	<releaseNotes>https://support.avira.com/hc/en-us/articles/360000109798-Avira-Antivirus-for-Windows</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
