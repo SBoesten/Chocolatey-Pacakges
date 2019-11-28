@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>aviraAV</id>
+    <id>aviraav</id>
     <title>Avira</title>
 	<version>15.0.1911.1660</version>
     <authors>Avira Operations GmbH Co. KG</authors>
