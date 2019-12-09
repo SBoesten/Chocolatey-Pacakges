@@ -3,14 +3,18 @@
   <metadata>
     <id>aviraav</id>
     <title>Avira</title>
+	<packageSourceUrl>https://github.com/SBoesten/Chocolatey-Pacakges</packageSourceUrl>
 	<version>15.0.1911.1660</version>
     <authors>Avira Operations GmbH Co. KG</authors>
 	<owners>S.Boesten</owners>
 	<projectUrl>https://www.avira.com/nl/free-antivirus-windows</projectUrl>
+	<iconUrl>https://cdn.statically.io/gh/SBoesten/Chocolatey-Pacakges/ef0c1554/Icon/Avira-Free-Antivirus.png</iconUrl>
+	<licenseUrl>https://www.avira.com/en/license-agreement-terms-of-use</licenseUrl>
 	<tags>Avira AV AntiVirus</tags>
 	<summary>Free AntiVirus</summary>
 	<description>Avira Free Antivirus offers basic protection for your computer against dangerous viruses, worms, spy-ware, trojans and costly dialers.</description>
 	<releaseNotes>https://support.avira.com/hc/en-us/articles/360000109798-Avira-Antivirus-for-Windows</releaseNotes>
+	<docsUrl>https://support.avira.com/hc/en-us</docsUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
